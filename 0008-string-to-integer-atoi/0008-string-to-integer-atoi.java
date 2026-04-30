@@ -29,14 +29,6 @@ class Solution {
                 break;
             }
         }
-        long x2 = x * sign;
-        int limit = -1 * (int) Math.pow(2, 31) - 1;
-
-        if (x2 > (limit * (-1) - 1)) {
-            return (limit * (-1) - 1);
-        } else if (x2 < limit) {
-            return limit;
-        }
-        return (int) x2;
+        return (int) x * sign;
     }
 }
