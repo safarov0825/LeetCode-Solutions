@@ -11,9 +11,6 @@ class Solution {
             temp /= 10;
         }
 
-        if (y == x) {
-            return true;
-        }
-        return false;
+        return y == x;
     }
 }
