@@ -4,13 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: None Do not return anything, modify nums in-place instead.
         """
-        total = 0
-
-        try:
-            for n in reversed(nums):
+        for n in reversed(nums):
+            if n == 0:
                 nums.remove(0)
                 nums.append(0)
-        except ValueError:
-            pass
 
         
