@@ -9,10 +9,8 @@ class Solution(object):
         try:
             for n in reversed(nums):
                 nums.remove(0)
-                total += 1
+                nums.append(0)
         except ValueError:
             pass
 
-        for _ in range(total):
-            nums.append(0)
         
