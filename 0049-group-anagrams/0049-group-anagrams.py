@@ -18,6 +18,7 @@ class Solution(object):
                 if count == value:
                     anagrams[key].append(s)
                     found = True
+                    break
 
             if not found:
                 anagrams.append([s])
