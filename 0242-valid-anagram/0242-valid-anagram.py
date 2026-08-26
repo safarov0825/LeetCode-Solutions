@@ -5,7 +5,13 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        if Counter(s) == Counter(t):
+        counts, countt = {}, {}
+        for l in s:
+            counts[l] = counts.get(l, 0) + 1
+        for l in t:
+            countt[l] = countt.get(l, 0) + 1
+
+        if counts == countt:
             return True
         return False
         
