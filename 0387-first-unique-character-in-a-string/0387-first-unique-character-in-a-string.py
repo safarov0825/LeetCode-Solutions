@@ -4,11 +4,11 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        seen = Counter(s)
+        count = Counter(s)
 
-        for l in s:
-            if seen[l] == 1:
-                return s.index(l)
+        for i, l in enumerate(s):
+            if count[l] == 1:
+                return i
 
         return -1
         
