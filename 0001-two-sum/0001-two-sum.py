@@ -5,8 +5,12 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        for i in range(len(nums)):
-            new_target = target - nums[i]
-            for j in range(i+1, len(nums)):
-                if nums[j] == new_target:
-                    return [i, j]
+        seen = dict()
+
+        for i, num in enumerate(nums):
+            complement = target - num
+
+            if complement in seen:
+                return [seen[complement], i]
+
+            seen[num] = i
