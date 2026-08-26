@@ -4,7 +4,10 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        count = Counter(s)
+        count = {}
+
+        for l in s:
+            count[l] = count.get(l, 0) + 1
 
         for i, l in enumerate(s):
             if count[l] == 1:
