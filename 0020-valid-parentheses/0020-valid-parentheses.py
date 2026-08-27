@@ -14,12 +14,10 @@ class Solution(object):
             elif p == "{":
                 par.append("}")
             else:
-                if not par:
+                if not par or p != par[-1]:
                     return False
-                elif p == par[-1]:
-                    par.pop()
                 else:
-                    return False
+                    par.pop()
             
         if not par:
             return True
