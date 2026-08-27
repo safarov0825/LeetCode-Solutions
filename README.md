@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0844-backspace-string-compare](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -102,8 +104,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
