@@ -22,7 +22,7 @@ class MinStack(object):
         """
         :rtype: None
         """
-        removed = self.stack.pop()
+        self.stack.pop()
         self.minimum.pop()
 
         
