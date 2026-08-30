@@ -5,9 +5,9 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
-        heap = []
         frequency = Counter(nums)
 
+        heap = []
         for num, freq in frequency.items():
             heapq.heappush(heap, (freq, num))
 
