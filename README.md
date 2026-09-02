@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0208-implement-trie-prefix-tree](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Tree
 |  |
@@ -201,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
