@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [3136-valid-word](https://github.com/safarov0825/LeetCode-Solutions/tree/master/3136-valid-word) |
 ## Greedy
 |  |
 | ------- |
