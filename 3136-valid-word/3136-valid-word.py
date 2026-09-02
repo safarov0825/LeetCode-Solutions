@@ -17,8 +17,6 @@ class Solution(object):
                 elif c.isalpha():
                     consonant = True
         
-        if vowel and consonant:
-            return True
-        return False
+        return (vowel and consonant) == True
 
         
