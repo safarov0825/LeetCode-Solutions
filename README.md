@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1046-last-stone-weight](https://github.com/safarov0825/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 ## Two Pointers
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/safarov0825/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Linked List
 |  |
 | ------- |
