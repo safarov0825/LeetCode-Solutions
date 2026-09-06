@@ -8,11 +8,12 @@ class Solution(object):
         lowest = prices[0]
 
         for p in prices:
-            if p - lowest > profit:
-                profit = p -lowest
-
             if p < lowest:
                 lowest = p
+                pass
+                
+            if p - lowest > profit:
+                profit = p -lowest
 
         return profit
         
